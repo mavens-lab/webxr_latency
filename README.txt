@@ -5,7 +5,7 @@ Script requires edits to the __main__ method to set camera initial position, ori
 
 Some debug functions as well as the VIA-Image functionality has been commented out but may be re-enabled.
 
-command to run: python VINS.py <gltf file name>
+command to run: python VIA.py <gltf file name>
 
 resultant files will be writen to the same directory in the order of increasing priority (<gltf file name>0..n<.gltf or .bin>)
 
