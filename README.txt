@@ -1,4 +1,6 @@
-Dependancies: Python 3 version 3.7+, numpy, numpy-quaternion https://quaternion.readthedocs.io/en/latest/, matplotlib
+Technical report: See "WebXR_FoV_tech_report.pdf"
+
+Dependencies: Python 3 version 3.7+, numpy, numpy-quaternion https://quaternion.readthedocs.io/en/latest/, matplotlib
 
 Current version of the script works on most gltf 2.0 files that have been separated into .gltf and .bin files of the same name.
 Script requires edits to the __main__ method to set camera initial position, orientation, ect.
